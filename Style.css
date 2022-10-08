@@ -1,0 +1,33 @@
+* {
+    background-color: burlywood;
+}
+
+ul {
+    align-content: space-between;
+    font-size: small;
+    margin: 2px solid black;
+}
+
+Biography {
+    font-size: larger
+}
+
+
+nav {
+    background-color: blue;
+}
+
+.button3, .button2, .button1 {
+    background-color: whitesmoke;
+    border-radius: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+.div1, .div2 {
+    border: 1px solid black;
+    width: 320px;
+    padding: 20px;
+    margin-left: 20px;
+;
+}
+
