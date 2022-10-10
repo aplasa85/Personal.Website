@@ -1,20 +1,21 @@
-* {
-    background-color: burlywood;
+body {
+    background-color: bisque;
 }
 
 ul {
     align-content: space-between;
-    font-size: small;
+    font-size: large;
     margin: 2px solid black;
+
 }
 
 Biography {
     font-size: larger
 }
 
-
 nav {
-    background-color: blue;
+    background-color: rgb(117, 113, 113);
+ width: 100%;
 }
 
 .button3, .button2, .button1 {
@@ -28,6 +29,7 @@ nav {
     width: 320px;
     padding: 20px;
     margin-left: 20px;
+    text-align: center;
 ;
 }
 
