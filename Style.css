@@ -9,14 +9,25 @@ ul {
 
 }
 
+.image {
+    align-items:flex-end;
+    border-radius: 80%;
+}
+
+.menu {
+    justify-content: center;
+}
+
 Biography {
     font-size: larger
 }
 
 nav {
-    background-color: rgb(117, 113, 113);
+    background-color: rgb(156, 156, 156);
+    display: inline-flexbox;
  width: 100%;
 }
+    
 
 .button3, .button2, .button1 {
     background-color: whitesmoke;
@@ -31,5 +42,11 @@ nav {
     margin-left: 20px;
     text-align: center;
 ;
+}
+
+.bottom-nav {
+    padding: 30px;
+    background-color: grey;
+    padding: 30px;
 }
 
